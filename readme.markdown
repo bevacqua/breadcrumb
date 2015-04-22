@@ -2,7 +2,17 @@
 
 > Follow breadcrumbs to a piece of cake
 
-## `breadcrumb(cake, crumbs)`
+# Install
+
+```shell
+npm install breadcrumb --save
+```
+
+```shell
+bower install breadcrumb.js --save
+```
+
+# `breadcrumb(cake, crumbs)`
 
 Returns the value at `crumbs`. Example:
 
