@@ -1,6 +1,6 @@
 {
   "name": "breadcrumb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Follow breadcrumbs to a piece of cake",
   "main": "dist/breadcrumb.js",
   "ignore": [],
